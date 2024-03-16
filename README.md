@@ -1,0 +1,1 @@
+# Script-de-instala-o-WordPress-completo---Ubuntu-18.04
